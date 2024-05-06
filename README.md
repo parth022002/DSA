@@ -56,6 +56,8 @@
     - Finds the shortest paths between all pairs of vertices in a weighted graph.
 28. Union Find Algorithm
     - Disjoint-set data structure for maintaining a collection of disjoint sets.
+29. Radix Sort
+30. Bubble Sort
 
 ## Data Structures
 •	Array \
